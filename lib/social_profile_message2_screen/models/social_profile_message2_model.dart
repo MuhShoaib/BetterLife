@@ -1,0 +1,1 @@
+class SocialProfileMessage2Model { }

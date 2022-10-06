@@ -1,0 +1,1 @@
+class Home2Model { }

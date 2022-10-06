@@ -1,0 +1,1 @@
+class CreateWorkout5Model { }

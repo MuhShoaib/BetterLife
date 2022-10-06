@@ -1,0 +1,1 @@
+class SocialGroup1ItemModel { }
